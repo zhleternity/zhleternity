@@ -1,4 +1,4 @@
-![Ostrich-big](images/Ostrich-big.png)
+![](https://github.com/zhleternity/zhleternity/blob/master/images/Ostrich-big.png)
 ### Hi there 👋 I'm currently working on CV.
 
 <!--
