@@ -1,4 +1,4 @@
-<smg src= "images/20145517170837507196.jpg">
+![](https://github.com/zhleternity/zhleternity/blob/master/images/Ostrich-big.png)
 ### Hi there 👋 I'm currently working on CV.
 
 <!--
