@@ -1,5 +1,5 @@
-![image](https://github.com/zhleternity/zhleternity/blob/master/images/20145517170837507196.jpg)
-### Hi there 👋
+<smg src= "images/20145517170837507196.jpg">
+### Hi there 👋 I'm currently working on CV.
 
 <!--
 **zhleternity/zhleternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
