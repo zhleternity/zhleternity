@@ -1,5 +1,5 @@
 ![](https://github.com/zhleternity/zhleternity/blob/master/images/code.png)
-### Hi there 👋 I'm currently working on CV.
+### Hi there 👋 I'm currently working on CV.Loving reading,sporting,and music.Welcome to pull up me😄.
 
 <!--
 **zhleternity/zhleternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
