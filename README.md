@@ -1,4 +1,4 @@
-![](https://github.com/zhleternity/zhleternity/blob/master/images/Ostrich-big.png)
+![](https://github.com/zhleternity/zhleternity/blob/master/images/code.png)
 ### Hi there 👋 I'm currently working on CV.
 
 <!--
