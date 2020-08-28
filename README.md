@@ -1,4 +1,4 @@
-<smg src= "images/20145517170837507196.jpg">
+![Ostrich-big](images/Ostrich-big.png)
 ### Hi there 👋 I'm currently working on CV.
 
 <!--
